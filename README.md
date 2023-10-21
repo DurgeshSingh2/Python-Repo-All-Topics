@@ -3,3 +3,5 @@
 
 
 Hi This is Python Tutorial Repository where i will try to keep All the topics related to python, along with their description and code. 
+
+First we will Start with Basic Print and Math functionality of Python. 
